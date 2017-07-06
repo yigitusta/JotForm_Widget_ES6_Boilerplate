@@ -1,0 +1,24 @@
+
+{
+  "extends": "eslint:recommended",
+  "rules": {
+    "no-plusplus": 0,
+    "no-restricted-syntax": 0,
+    "no-alert": 0,
+    "no-console": 0
+  },
+  "env": {
+      "es6": true,
+      "browser": true,
+      "node": true,
+      "mocha": true,
+      "jasmine": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+        "jsx": true
+    }
+  }
+}
