@@ -1,7 +1,7 @@
 {
   "name": "jotformwidget-es6-webpack",
   "version": "1.0.0",
-  "description": "A JotForm widget es6 boilerplate with jquery installed, configured with babel, webpack and eslint, forked from https://github.com/metagrover/ES6-boilerplate",
+  "description": "A JotForm widget es6 boilerplate with jQuery installed, configured with babel, webpack and eslint, forked from https://github.com/metagrover/ES6-boilerplate",
   "main": "index.js",
   "repository": {
     "type": "git",
