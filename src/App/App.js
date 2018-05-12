@@ -1,6 +1,6 @@
 import Example from './Example';
 /*global JFCustomWidget*/ 
-//JFCustomWidget object comes from the index.html document
+// JFCustomWidget object comes from index.html document
 
 export default class App {
     constructor () {
